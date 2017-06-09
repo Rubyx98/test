@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace GithubManualTest
 {
     public class Class1
-    {
+    { sdbakjbfakzdn 
     }
 }
