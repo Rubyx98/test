@@ -8,5 +8,5 @@ namespace GithubManualTest
 {
     public class Class1
     { sdbakjbfakzdn 
-    }
+    }sdf 
 }
