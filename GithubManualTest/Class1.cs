@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace GithubManualTest
 {
     public class Class1
-    { test 1 sadfasf
+    { test 1 [added code here]
     }
 }
