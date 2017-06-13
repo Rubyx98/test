@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace GithubManualTest
 {
     public class Class1
-    { test 1 [added code here]
+    { test 1 [added more code here]
+       [ Person 1 added code here ]
     }
 }
